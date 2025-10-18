@@ -1,0 +1,14 @@
+[
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "GENERIC_SCENARIO_ID",
+    "//": "The scenario selected by default in the character creator menu.",
+    "stype": "string_input",
+    "value": "wilderness"
+  },
+  {
+    "type": "SCENARIO_BLACKLIST",
+    "subtype": "whitelist",
+    "scenarios": [ "wilderness" ]
+  }
+]
