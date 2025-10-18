@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "CDSA",
+    "name": "Dark Scrolls Ahead Mod",
+    "authors": [ "Cyrano7" ],
+    "description": "Dark Scrolls Ahead Mod",
+    "category": "total_conversion",
+    "dependencies": [ "dda" ]
+  }
+]
