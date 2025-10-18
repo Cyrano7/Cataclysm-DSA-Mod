@@ -1,0 +1,26 @@
+[
+  {
+    "id": "ROBUST",
+    "copy-from": "ROBUST",
+    "type": "mutation",
+    "name": { "str": "Robust Genetics" },
+    "description": "Your genome has rapidly adapted to the Cataclysm and can handle the strain of mutation better.  Taking different kinds of mutagen won't result in more defective mutations than normal.",
+    "starting_trait": false
+  },
+  {
+    "id": "CHAOTIC_BAD",
+    "copy-from": "CHAOTIC_BAD",
+    "type": "mutation",
+    "name": { "str": "Genetic Downward Spiral" },
+    "description": "The events of the Cataclysm have damaged your DNA beyond repair.  You mutate frequently, all mutations you receive (from any source) are negative, and your instability is rapidly growing out of control.",
+    "starting_trait": false
+  },
+  {
+    "id": "GUNSHY",
+    "copy-from": "GUNSHY",
+    "type": "mutation",
+    "name": { "str": "Gun-Shy" },
+    "description": "Using a firearm is off limits, due to personal philosophy or a traumatic event.  You can still use bows and slings.",
+    "starting_trait": false
+  }
+]
