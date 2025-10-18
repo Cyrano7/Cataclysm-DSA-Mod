@@ -1,0 +1,24 @@
+[
+  {
+    "type": "ITEM_BLACKLIST",
+    "whitelist": false,
+    "items": [
+      "money_strap_one",
+      "money_strap_two",
+      "money_strap_five",
+      "money_strap_ten",
+      "money_strap_twenty",
+      "money_strap_fifty",
+      "money_strap_hundred",
+      "money_strap_FMCNote",
+      "money_bundle_one",
+      "money_bundle_two",
+      "money_bundle_five",
+      "money_bundle_ten",
+      "money_bundle_twenty",
+      "money_bundle_fifty",
+      "money_bundle_hundred",
+      "money_bundle_FMCNote"
+    ]
+  }
+]
