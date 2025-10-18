@@ -1,0 +1,38 @@
+[
+  { 
+    "id": "pistol",
+    "type": "skill",
+    "name": { "str": "handguns" },
+    "description": "Obsoleted.",
+    "display_category": "none",
+    "sort_rank": 0,
+    "obsolete": true
+  },
+  {
+    "id": "rifle",
+    "type": "skill",
+    "name": { "str": "rifles" },
+    "description": "Obsoleted.",
+    "display_category": "none",
+    "sort_rank": 0,
+    "obsolete": true
+  },
+  {
+    "id": "shotgun",
+    "type": "skill",
+    "name": { "str": "shotguns" },
+    "description": "Obsoleted.",
+    "display_category": "none",
+    "sort_rank": 0,
+    "obsolete": true
+  },
+  {
+    "id": "smg",
+    "type": "skill",
+    "name": { "str": "submachine guns" },
+    "description": "Obsoleted.",
+    "display_category": "none",
+    "sort_rank": 0,
+    "obsolete": true
+  }
+]
