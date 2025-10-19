@@ -3,6 +3,12 @@
     "type": "ITEM_BLACKLIST",
     "whitelist": false,
     "items": [
+      "shotgun_primer",
+      "smpistol_primer",
+      "lgpistol_primer",
+      "smrifle_primer",
+      "lgrifle_primer",
+      "22_casing_new",
       "money_strap_one",
       "money_strap_two",
       "money_strap_five",
