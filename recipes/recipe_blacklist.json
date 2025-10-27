@@ -1,0 +1,37 @@
+[
+  {
+    "result": "prac_bashing_beg_rifle",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_bashing_int_rifle",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_bashing_beg_pistol",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_bashing_int_pistol",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_computer_beg",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_computer_int",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_computer_adv",
+    "type": "recipe",
+    "obsolete": true
+  }
+]
