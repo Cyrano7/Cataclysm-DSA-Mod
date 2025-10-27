@@ -1,0 +1,17 @@
+[
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "GENERIC_PROFESSION_ID",
+    "//": "The profession selected by default in the character creator menu.",
+    "stype": "string_input",
+    "value": "naturalist"
+  },
+  {
+    "type": "profession_blacklist",
+    "subtype": "whitelist",
+    "professions": [ 
+      "naturalist",
+      "alcoholic"
+       ]
+  }
+]
