@@ -1,0 +1,16 @@
+[
+  {
+    "id": "makeshift_ear_plugs_on",
+    "copy-from": "makeshift_ear_plugs_on",
+    "type": "ITEM",
+    "name": { "str_sp": "wax ear plugs (in) (pair)" },
+    "description": "A pair of ear plugs made from lumps of wax on the ends of a piece of string.  They are inside your ears, activate them to take them out."
+  },
+  {
+    "id": "makeshift_ear_plugs_off",
+    "copy-from": "makeshift_ear_plugs_off",
+    "type": "ITEM",
+    "name": { "str_sp": "wax ear plugs (out) (pair)" },
+    "description": "A pair of ear plugs made from lumps of wax on the ends of a piece of string.  They hang around your neck, use them to plug them in."
+  }
+]
