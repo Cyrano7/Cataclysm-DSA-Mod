@@ -1,0 +1,11 @@
+[
+  {
+    "id": "boiled_egg",
+    "copy-from": "boiled_egg",
+    "type": "ITEM",
+    "name": { "str": "hard-boiled egg" },
+    "description": "A boiled egg, still in its shell.  Portable and nutritious!",
+    "price": "50 cent",
+    "price_postapoc": "50 cent"
+  }
+]
