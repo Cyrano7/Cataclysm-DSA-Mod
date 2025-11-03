@@ -4,13 +4,19 @@
     "copy-from": "makeshift_ear_plugs_on",
     "type": "ITEM",
     "name": { "str_sp": "wax ear plugs (in) (pair)" },
-    "description": "A pair of ear plugs made from lumps of wax on the ends of a piece of string.  They are inside your ears, activate them to take them out."
+    "description": "A pair of ear plugs made from lumps of wax on the ends of a piece of string.  They are inside your ears, activate them to take them out.",
+    "price": "25 cent",
+    "price_postapoc": "25 cent",
+    "extend": { "flags": [ "TRADER_AVOID" ] }
   },
   {
     "id": "makeshift_ear_plugs_off",
     "copy-from": "makeshift_ear_plugs_off",
     "type": "ITEM",
     "name": { "str_sp": "wax ear plugs (out) (pair)" },
-    "description": "A pair of ear plugs made from lumps of wax on the ends of a piece of string.  They hang around your neck, use them to plug them in."
+    "description": "A pair of ear plugs made from lumps of wax on the ends of a piece of string.  They hang around your neck, use them to plug them in.",
+    "price": "25 cent",
+    "price_postapoc": "25 cent",
+    "extend": { "flags": [ "TRADER_AVOID" ] }
   }
 ]
