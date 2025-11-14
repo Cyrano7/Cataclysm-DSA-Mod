@@ -1,0 +1,97 @@
+[
+  {
+    "result": "nested_bat",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_pipe_rifles",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_primers",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_refined_cannabis",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_rebreather",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_wetsuits_reinforced",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_wetsuits",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_hoods_nylon",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_gambeson_nylon",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_arminggloves_nylon",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_armingpants_nylon",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_aketon_nylon",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_faux_fur_trenchcoat",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_survivor_trenchcoat",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_faux_fur_duster",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_survivor_duster",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_aprons_synthetic",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_bullet_necklaces",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_firearm_cqc_practice",
+    "type": "recipe",
+    "obsolete": true
+  }
+]
