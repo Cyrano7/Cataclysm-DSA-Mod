@@ -10,6 +10,11 @@
     "obsolete": true
   },
   {
+    "result": "nested_flintlock_arms",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
     "result": "nested_primers",
     "type": "recipe",
     "obsolete": true
