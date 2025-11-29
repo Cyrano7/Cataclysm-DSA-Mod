@@ -1,0 +1,12 @@
+[
+  {
+    "id": "survival_marker",
+    "copy-from": "survival_marker",
+    "type": "ITEM",
+    "name": { "str": "crude marker" },
+    "description": "A sharpened piece of coal or charcoal used as an improvised writing implement.  Almost guaranteed to get your hands covered in its black residue.  Activate it to write something.",
+    "price": "25 cent",
+    "price_postapoc": "25 cent",
+    "extend": { "flags": [ "TRADER_AVOID" ] }
+  }
+]
