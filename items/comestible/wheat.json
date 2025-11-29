@@ -1,0 +1,11 @@
+[
+  {
+    "id": "frenchtoast",
+    "copy-from": "frenchtoast",
+    "type": "ITEM",
+    "name": { "str_sp": "spiced egg toast" },
+    "description": "Slices of bread dipped in a milk, egg, and spice mixture then fried.",
+    "price": "3 USD",
+    "price_postapoc": "3 USD"
+  }
+]
