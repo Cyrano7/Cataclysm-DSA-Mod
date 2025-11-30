@@ -1,0 +1,12 @@
+[
+  {
+    "id": "fletching",
+    "type": "requirement",
+    "//": "Materials for fletching arrows.",
+    "components": [
+      [
+        [ "feather", 10 ]
+      ]
+    ]
+  }
+]
