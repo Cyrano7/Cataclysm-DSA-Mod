@@ -33,5 +33,25 @@
     "result": "prac_computer_adv",
     "type": "recipe",
     "obsolete": true
+  },
+  {
+    "result": "prac_cutting_beg_bionics",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_cutting_int_bionics",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_cutting_beg_bionic_sword",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "prac_cutting_int_bionic_sword",
+    "type": "recipe",
+    "obsolete": true
   }
 ]

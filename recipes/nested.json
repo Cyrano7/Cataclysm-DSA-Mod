@@ -1,5 +1,10 @@
 [
   {
+    "result": "nested_bionic_practice",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
     "result": "nested_bat",
     "type": "recipe",
     "obsolete": true
