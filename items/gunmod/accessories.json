@@ -1,0 +1,11 @@
+[
+  {
+    "id": "primitive_bow_silencer",
+    "copy-from": "primitive_bow_silencer",
+    "type": "ITEM",
+    "name": { "str": "bow dampening kit" },
+    "description": "A set of simple pads and strips of fur with adhesive backing, designed to stick on the limbs and string of a bow to absorb vibrations.  This substantially reduces noise during firing and can help with accuracy.",
+    "price": "5 USD",
+    "price_postapoc": "5 USD"
+  }
+]
