@@ -1,0 +1,12 @@
+[
+  {
+    "id": "coin_drake",
+    "copy-from": "coin_gold",
+    "type": "ITEM",
+    "name": { "str": "gold coin" },
+    "description": "Also referred to as septims or drakes, these round coins are used as a form of currency across the entire continent of Tamriel and beyond.  One side depicts the face of Emperor Tiber Septim and the reverse displays the Red Dragon symbol.",
+    "weight": "31 g",
+    "price": "1 USD",
+    "price_postapoc": "1 USD"
+  }
+]
