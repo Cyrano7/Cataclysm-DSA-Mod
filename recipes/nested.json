@@ -75,17 +75,7 @@
     "obsolete": true
   },
   {
-    "result": "nested_survivor_trenchcoat",
-    "type": "recipe",
-    "obsolete": true
-  },
-  {
     "result": "nested_faux_fur_duster",
-    "type": "recipe",
-    "obsolete": true
-  },
-  {
-    "result": "nested_survivor_duster",
     "type": "recipe",
     "obsolete": true
   },
