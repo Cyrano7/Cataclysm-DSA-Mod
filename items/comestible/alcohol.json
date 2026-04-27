@@ -1,0 +1,11 @@
+[
+  {
+    "id": "eggnog_spiked",
+    "copy-from": "eggnog_spiked",
+    "type": "ITEM",
+    "name": { "str_sp": "sweet nog" },
+    "description": "Smooth and rich, this spoon-coating mixture of milk, cream, eggs, and spirits is a traditional Nordic drink.  Having been fortified with alcohol, it will keep for some time.",
+    "price": "2 USD",
+    "price_postapoc": "2 USD"
+  }
+]

@@ -1,5 +1,14 @@
 [
   {
+    "id": "eggnog",
+    "copy-from": "eggnog",
+    "type": "ITEM",
+    "name": { "str_sp": "children's sweet nog" },
+    "description": "Smooth and rich, this spoon-coating mixture of milk, cream, and eggs is a traditional Nordic drink.  While often mix with spirits, it's still delicious on its own.  Meant to be stored cold, it will spoil rapidly.",
+    "price": "1 USD 50 cent",
+    "price_postapoc": "1 USD 50 cent"
+  },
+  {
     "id": "V8",
     "copy-from": "V8",
     "type": "ITEM",
