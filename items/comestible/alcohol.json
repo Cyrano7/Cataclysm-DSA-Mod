@@ -7,5 +7,60 @@
     "description": "Smooth and rich, this spoon-coating mixture of milk, cream, eggs, and spirits is a traditional Nordic drink.  Having been fortified with alcohol, it will keep for some time.",
     "price": "2 USD",
     "price_postapoc": "2 USD"
+  },
+  {
+    "id": "mazte",
+    "type": "ITEM",
+    "name": { "str_sp": "mazte" },
+    "copy-from": "beer",
+    "container": "bottle_glass",
+    "description": "A alcoholic beer local to Morrowind brewed from saltrice.",
+    "price": "1 USD 50 cent",
+    "price_postapoc": "1 USD 50 cent"
+  },
+  {
+    "id": "sujamma",
+    "type": "ITEM",
+    "name": { "str_sp": "sujamma" },
+    "copy-from": "vodka",
+    "description": "A liquor local to Morrowind distilled from fermented saltrice.",
+    "price": "1 USD 50 cent",
+    "price_postapoc": "1 USD 50 cent"
+  },
+  {
+    "id": "shein",
+    "type": "ITEM",
+    "name": { "str_sp": "shein" },
+    "copy-from": "wine_noir",
+    "description": "Wine made from fermented comberries.  It has a slight bitter taste with sour notes.",
+    "price": "1 USD 50 cent",
+    "price_postapoc": "1 USD 50 cent"
+  },
+  {
+    "id": "greef",
+    "type": "ITEM",
+    "name": { "str_sp": "greef" },
+    "copy-from": "brandy",
+    "description": "Comberry wine that has been distilled into a brandy.  Great as an after-dinner drink, but packs a punch.",
+    "price": "1 USD 50 cent",
+    "price_postapoc": "1 USD 50 cent"
+  },
+  {
+    "id": "cyro_brandy",
+    "type": "ITEM",
+    "name": { "str_sp": "Colovian brandy" },
+    "copy-from": "brandy",
+    "description": "Wine that has been distilled to a higher proof from the region of Colovia in Cyrodiil.  Great as an after-dinner drink, but packs a punch.",
+    "price": "1 USD 50 cent",
+    "price_postapoc": "1 USD 50 cent"
+  },
+  {
+    "id": "flin",
+    "type": "ITEM",
+    "name": { "str_sp": "flin" },
+    "copy-from": "whiskey",
+    "description": "Fine Cyrodiilic liquor distilled from fermented grains.",
+    "price": "1 USD 50 cent",
+    "price_postapoc": "1 USD 50 cent"
   }
 ]
