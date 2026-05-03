@@ -5,6 +5,11 @@
     "obsolete": true
   },
   {
+    "result": "nested_firearm_cqc_practice",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
     "result": "nested_bat",
     "type": "recipe",
     "obsolete": true
@@ -95,7 +100,17 @@
     "obsolete": true
   },
   {
-    "result": "nested_firearm_cqc_practice",
+    "result": "nested_cardboard_boxes",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_cardboard_boxes_assembly",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
+    "result": "nested_cardboard_armor",
     "type": "recipe",
     "obsolete": true
   }
