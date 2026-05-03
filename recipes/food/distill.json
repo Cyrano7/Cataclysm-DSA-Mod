@@ -1,0 +1,10 @@
+[
+  {
+    "result": "greef",
+    "copy-from": "brandy",
+    "type": "recipe",
+    "qualities": [ { "id": "BOIL", "level": 2 }, { "id": "DISTILL", "level": 2 } ],
+    "tools": [ [ [ "water_boiling_heat", 21, "LIST" ] ] ],
+    "components": [ [ [ "shein", 21 ] ] ]
+  }
+]
