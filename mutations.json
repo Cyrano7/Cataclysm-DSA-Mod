@@ -1,5 +1,13 @@
 [
   {
+    "id": "COMPUTER_ILLITERATE",
+    "copy-from": "COMPUTER_ILLITERATE",
+    "type": "mutation",
+    "name": { "str": "Computer Illiterate" },
+    "description": "You just never really figured out how to use those infernal devices.  You cannot use computer terminals and cannot raise the computer skill above 0.",
+    "starting_trait": false
+  },
+  {
     "id": "ROBUST",
     "copy-from": "ROBUST",
     "type": "mutation",
