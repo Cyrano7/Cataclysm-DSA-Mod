@@ -1,0 +1,11 @@
+[
+  {
+    "id": "grenadine_syrup",
+    "copy-from": "grenadine_syrup",
+    "type": "ITEM",
+    "name": { "str_sp": "pomegranate syrup" },
+    "description": "Sweet syrup made from sugar and pomegranate juice.  It's meant to be mixed into other drinks, rather than drank as is.",
+    "price": "50 cent",
+    "price_postapoc": "50 cent"
+  }
+]
