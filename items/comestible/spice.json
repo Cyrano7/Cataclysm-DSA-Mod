@@ -1,0 +1,11 @@
+[
+  {
+    "id": "seasoning_italian",
+    "copy-from": "seasoning_italian",
+    "type": "ITEM",
+    "name": { "str_sp": "Colovian seasoning" },
+    "description": "A fragrant mix of dried basil, thyme and other spices.",
+    "price": "15 cent",
+    "price_postapoc": "15 cent"
+  }
+]
