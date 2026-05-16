@@ -1,0 +1,11 @@
+[
+  {
+    "id": "cranberries",
+    "copy-from": "cranberries",
+    "type": "ITEM",
+    "name": { "str": "handful of cranberries", "str_pl": "handfuls of cranberries" },
+    "description": "A handful of sour and bitter red berries.  Would be better if they were further processed before being comsumed.",
+    "price": "15 cent",
+    "price_postapoc": "15 cent"
+  }
+]
