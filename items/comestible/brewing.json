@@ -1,0 +1,13 @@
+[
+  {
+    "id": "brew_shein",
+    "copy-from": "brew_fruit_wine",
+    "type": "ITEM",
+    "subtypes": [ "BREWABLE", "COMESTIBLE" ],
+    "name": { "str_sp": "comberry wine must" },
+    "description": "Unfermented shein.  A bitter juice made from comberries.",
+    "price": "50 cent",
+    "price_postapoc": "50 cent",
+    "brew_results": [ "shein", "yeast" ]
+  }
+]

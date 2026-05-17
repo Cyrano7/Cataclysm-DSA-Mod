@@ -1,0 +1,9 @@
+[
+  {
+    "result": "brew_shein",
+    "copy-from": "brew_fruit_wine",
+    "type": "recipe",
+    "qualities": [ { "id": "CONTAIN", "level": 1 } ],
+    "components": [ [ [ "comberry_juice", 2 ] ], [ [ "yeast", 1 ] ], [ [ "water_clean", 2 ] ] ]
+  }
+]
