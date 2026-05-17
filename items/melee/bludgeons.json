@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2h_flail_steel",
+    "copy-from": "2h_flail_steel",
+    "type": "ITEM",
+    "name": { "str": "war flail" },
+    "description": "A stout pole with a large flanged mace head attached to the end with a short chain, a purpose-made combat version of an agricultural flail.  It specializes in threshing people in metal armor, rather than grain.",
+    "price": "250 USD",
+    "price_postapoc": "250 USD"
+  },
+  {
+    "id": "2h_flail_wood",
+    "copy-from": "2h_flail_wood",
+    "type": "ITEM",
+    "name": { "str": "threshing flail" },
+    "description": "A stout pole with a wooden club attached to the end with a leather cord.  This farming tool is used to thresh wheat and occasionally people when the workers are angry.",
+    "price": "40 USD",
+    "price_postapoc": "40 USD"
+  }
+]
