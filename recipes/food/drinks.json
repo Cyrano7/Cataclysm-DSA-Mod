@@ -1,0 +1,9 @@
+[
+  {
+    "result": "comberry_juice",
+    "copy-from": "cranberry_juice",
+    "type": "recipe",
+    "qualities": [ { "id": "HAMMER", "level": 1 }, { "id": "CONTAIN", "level": 1 }, { "id": "STRAIN", "level": 2 } ],
+    "components": [ [ [ "comberries", 3 ] ], [ [ "water_clean", 1 ] ] ]
+  }
+]

@@ -1,5 +1,14 @@
 [
   {
+    "id": "comberry_juice",
+    "copy-from": "cranberry_juice",
+    "type": "ITEM",
+    "name": { "str_sp": "comberry juice" },
+    "description": "Made from pressed comberries mixed with water.  Quite sour and bitter.",
+    "price": "50 cent",
+    "price_postapoc": "50 cent"
+  },
+  {
     "id": "eggnog",
     "copy-from": "eggnog",
     "type": "ITEM",

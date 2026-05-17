@@ -1,5 +1,14 @@
 [
   {
+    "id": "comberries",
+    "copy-from": "cranberries",
+    "type": "ITEM",
+    "name": { "str": "handful of comberries", "str_pl": "handfuls of comberries" },
+    "description": "A handful of very bitter red berries.  Better know for making brandy or wine then being eaten on their own.",
+    "price": "10 cent",
+    "price_postapoc": "10 cent"
+  },
+  {
     "id": "cranberries",
     "copy-from": "cranberries",
     "type": "ITEM",
