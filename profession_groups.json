@@ -1,0 +1,12 @@
+[
+  {
+    "type": "profession_group",
+    "id": "adult_basic_background",
+    "//": "Default selection when creating new characters. Also applied to randomized NPCs.",
+    "professions": [
+      "simple_home_cooking",
+      "social_skills",
+      "mundane_survival"
+    ]
+  }
+]

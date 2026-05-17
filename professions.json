@@ -11,6 +11,9 @@
     "subtype": "whitelist",
     "professions": [ 
       "naturalist",
+      "simple_home_cooking",
+      "social_skills",
+      "mundane_survival",
       "alcoholic"
        ]
   }
