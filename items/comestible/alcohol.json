@@ -6,8 +6,9 @@
     "name": { "str_sp": "mazte" },
     "container": "bottle_glass",
     "description": "A alcoholic beer local to Morrowind brewed from saltrice.",
-    "price": "1 USD 50 cent",
-    "price_postapoc": "1 USD 50 cent"
+    "price": "3 USD",
+    "price_postapoc": "3 USD",
+    "//": "10 gold per 750ml"
   },
   {
     "id": "sujamma",
@@ -15,8 +16,9 @@
     "type": "ITEM",
     "name": { "str_sp": "sujamma" },
     "description": "A liquor local to Morrowind distilled from fermented saltrice.",
-    "price": "1 USD 50 cent",
-    "price_postapoc": "1 USD 50 cent"
+    "price": "10 USD",
+    "price_postapoc": "10 USD",
+    "//": "30 gold per 750ml"
   },
   {
     "id": "shein",
@@ -24,8 +26,9 @@
     "type": "ITEM",
     "name": { "str_sp": "shein" },
     "description": "Wine made from fermented comberries.  It has a slight bitter taste with sour notes.",
-    "price": "1 USD 50 cent",
-    "price_postapoc": "1 USD 50 cent"
+    "price": "3 USD",
+    "price_postapoc": "3 USD",
+    "//": "10 gold per 750ml"
   },
   {
     "id": "greef",
@@ -33,8 +36,9 @@
     "type": "ITEM",
     "name": { "str_sp": "greef" },
     "description": "Comberry wine that has been distilled into a brandy.  Great as an after-dinner drink, but packs a punch.",
-    "price": "1 USD 50 cent",
-    "price_postapoc": "1 USD 50 cent"
+    "price": "10 USD",
+    "price_postapoc": "10 USD",
+    "//": "30 gold per 750ml"
   },
   {
     "id": "cyro_brandy",
@@ -42,8 +46,9 @@
     "type": "ITEM",
     "name": { "str_sp": "Colovian brandy" },
     "description": "Wine that has been distilled to a higher proof from the region of Colovia in Cyrodiil.  Great as an after-dinner drink, but packs a punch.",
-    "price": "1 USD 50 cent",
-    "price_postapoc": "1 USD 50 cent"
+    "price": "33 USD",
+    "price_postapoc": "33 USD",
+    "//": "100 gold per 750ml"
   },
   {
     "id": "flin",
@@ -51,8 +56,9 @@
     "type": "ITEM",
     "name": { "str_sp": "flin" },
     "description": "Fine Cyrodiilic liquor distilled from fermented grains.",
-    "price": "1 USD 50 cent",
-    "price_postapoc": "1 USD 50 cent"
+    "price": "33 USD",
+    "price_postapoc": "33 USD",
+    "//": "100 gold per 750ml"
   },
   {
     "id": "eggnog_spiked",
