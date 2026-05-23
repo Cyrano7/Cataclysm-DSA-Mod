@@ -1,0 +1,41 @@
+[
+  {
+    "id": "abc_book",
+    "copy-from": "child_book",
+    "type": "ITEM",
+    "subtypes": [ "BOOK" ],
+    "name": { "str": "ABCs for Barbarians", "str_pl": "ABCs for Barbarians" },
+    "description": "A picture book for barbarians.  A is for Atronach, B is for Bungler's Bane, C is for Comberry...",
+    "weight": "907 g",
+    "volume": "1 L",
+    "price": "25 USD",
+    "price_postapoc": "25 USD",
+    "material": [ "paper" ],
+    "symbol": "?",
+    "looks_like": "story_book",
+    "color": "light_blue",
+    "time": "4 m",
+    "chapters": 2,
+    "read_fun": 1
+  },
+  {
+    "id": "firmament_book",
+    "copy-from": "child_book",
+    "type": "ITEM",
+    "subtypes": [ "BOOK" ],
+    "name": { "str": "The Firmament", "str_pl": "copies of The Firmament" },
+    "description": "A book of constellations and their meanings.  The Stars of Tamriel are divided into thirteen constellations. Three of them are the major constellations, known as the Guardians.  These are the Warrior, the Mage, and the Thief.  Each of the Guardians protects its three Charges from the thirteenth constellation, the Serpent.",
+    "weight": "1361 g",
+    "volume": "1 L",
+    "price": "40 USD",
+    "price_postapoc": "40 USD",
+    "material": [ "paper" ],
+    "symbol": "?",
+    "looks_like": "story_book",
+    "color": "red",
+    "intelligence": 6,
+    "time": "4 m",
+    "chapters": 13,
+    "read_fun": 1
+  }
+]
