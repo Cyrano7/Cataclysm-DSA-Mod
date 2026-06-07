@@ -90,6 +90,11 @@
     "obsolete": true
   },
   {
+    "result": "nested_cuirass_tire",
+    "type": "recipe",
+    "obsolete": true
+  },
+  {
     "result": "nested_bullet_necklaces",
     "type": "recipe",
     "obsolete": true
