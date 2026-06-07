@@ -4,13 +4,13 @@
     "name": "GENERIC_PROFESSION_ID",
     "//": "The profession selected by default in the character creator menu.",
     "stype": "string_input",
-    "value": "naturalist"
+    "value": "imperial_prisoner"
   },
   {
     "type": "profession_blacklist",
     "subtype": "whitelist",
     "professions": [ 
-      "naturalist",
+      "imperial_prisoner",
       "simple_home_cooking",
       "social_skills",
       "mundane_survival",
@@ -19,5 +19,22 @@
       "swimming",
       "swimming_expert"
        ]
+  },
+  {
+    "type": "profession",
+    "id": "imperial_prisoner",
+    "name": "Imperial: Released Prisoner",
+    "description": "Some would say that there's nothing particularly notable about you.",
+    "npc_background": "BG_survival_story_EVACUEE",
+    "points": 0,
+    "items": {
+      "both": {
+        "entries": [
+          { "item": "sleeveless_tunic" },
+          { "item": "straw_sandals" }
+        ]
+      }
+    },
+    "flags": [ "NO_BONUS_ITEMS" ]
   }
 ]
