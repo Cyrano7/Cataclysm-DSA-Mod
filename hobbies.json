@@ -4,7 +4,7 @@
     "copy-from": "alcoholic",
     "type": "profession",
     "name": "Alcohol Dependence",
-    "description": "One drink became two, two became too many, and before long you were only able to find solace at the bottom of a goblet or flagon.  Gods be damned, you need a drink."
+    "description": "One drink became two, two became too many, and before long you were only able to find solace at the bottom of a bottle.  Gods be damned, you need a drink."
   },
   {
     "id": "simple_home_cooking",
@@ -26,5 +26,26 @@
     "type": "profession",
     "name": "Mundane Survival",
     "description": "You've managed to survive life around a civilized settlement.  Through your ordeals you've learned how to treat scrapes and bruises, and how to keep your possessions and living space in reasonable condition."
+  },
+  {
+    "id": "swimming_beginner",
+    "copy-from": "swimming_beginner",
+    "type": "profession",
+    "name": "Swimming (Apprentice)",
+    "description": "You can swim.  Not very well, and you won't break any speed records, but, you CAN swim."
+  },
+  {
+    "id": "swimming",
+    "copy-from": "swimming",
+    "type": "profession",
+    "name": "Swimming (Journeyman)",
+    "description": "You're a strong swimmer.  You can't swim forever, but it's certainly an advantage."
+  },
+  {
+    "id": "swimming_expert",
+    "copy-from": "swimming_expert",
+    "type": "profession",
+    "name": "Swimming (Master)",
+    "description": "You're an excellent swimmer.  Plus, all that swimming has left you in great shape."
   }
 ]
